@@ -73,3 +73,6 @@ group.add(cube1, cube2, cube3);
 camera.lookAt(cube2.position)
 
 renderer.render(scene, camera);
+
+// other concepts to consider
+// quaternion, normalize
